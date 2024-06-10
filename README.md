@@ -6,7 +6,7 @@ You many add or remove SYSMONS events IDs according to your needs
 
 You can filter logs from last hour/last 24 hours whatever else, think it through your scope of research
 
-References
-https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
-https://github.com/SwiftOnSecurity/
-https://tryhackme.com/r/room/sysmon
+<b>References</b><br>
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon<br>
+https://github.com/SwiftOnSecurity/<br>
+https://tryhackme.com/r/room/sysmon<br>
