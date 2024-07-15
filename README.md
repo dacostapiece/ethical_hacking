@@ -10,3 +10,6 @@ You can filter logs from last hour/last 24 hours whatever else, think it through
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon<br>
 https://github.com/SwiftOnSecurity/<br>
 https://tryhackme.com/r/room/sysmon<br>
+
+<h3>Requested Tools</h3>
+1. From Rubeus as-rep roasting run, output hashes - each by line - (add or not 23$ after username?)
