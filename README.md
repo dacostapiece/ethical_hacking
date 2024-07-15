@@ -12,4 +12,4 @@ https://github.com/SwiftOnSecurity/<br>
 https://tryhackme.com/r/room/sysmon<br>
 
 <h3>Requested Tools</h3>
-1. From Rubeus as-rep roasting run, output hashes - each by line - (add or not 23$ after username?)
+1. From Rubeus as-rep roasting run, output hashes - each by line - (add or not 23$ after $krb5asrep$?)
