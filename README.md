@@ -12,4 +12,5 @@ https://github.com/SwiftOnSecurity/<br>
 https://tryhackme.com/r/room/sysmon<br>
 
 <h3>Requested Tools</h3>
-1. From Rubeus as-rep roasting run, output hashes - each by line - (add or not 23$ after $krb5asrep$?)
+1. From Rubeus as-rep roasting run, output hashes - each by line - (add or not 23$ after $krb5asrep$?)<br>
+2. Get Volatility pstree (or psscan/pslist) output, import and format it as spreadsheet<br> 
