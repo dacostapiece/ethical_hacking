@@ -1,5 +1,5 @@
 #TryHackMe.com
-
+#apt install python3-pyfiglet
 import sys
 import socket
 import pyfiglet
