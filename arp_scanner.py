@@ -1,5 +1,7 @@
 #TryHackMe.com
-
+#might req install lib below
+#apt install python3-scapy
+#sudo apt install python3-scapy
 from scapy.all import *
 
 interface = "eth0"
