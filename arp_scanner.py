@@ -2,6 +2,7 @@
 #might req install lib below
 #apt install python3-scapy
 #sudo apt install python3-scapy
+#python3 arp_scanner.py or sudo python3 arp_scanner.py
 from scapy.all import *
 
 interface = "eth0"
