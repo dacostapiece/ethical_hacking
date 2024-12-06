@@ -1,5 +1,6 @@
 #TryHackMe.com
 #apt install python3-pyfiglet
+#python3 port_scanner.py
 import sys
 import socket
 import pyfiglet
